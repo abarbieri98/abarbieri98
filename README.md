@@ -10,6 +10,7 @@
 Projects that I've done in the past, like:
 - An in-depth report on "unusual" clustering techniques ([here](https://github.com/abarbieri98/Statistical-Learning---Final-Project))
 - A Python implementation of the Okapi BM25 IR system ([here](https://github.com/abarbieri98/Information-Retrieval---Final-Project))
+- A C implementation using a parallel approach of the k-D tree algorithm ([here](https://github.com/abarbieri98/Parallel-kD-tree))
 
 <!--
 **abarbieri98/abarbieri98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
