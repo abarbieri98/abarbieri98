@@ -8,7 +8,7 @@
 
 ## What you can find here
 Projects that I've done in the past, like:
-- An review on "unusual" clustering techniques ([here](https://github.com/abarbieri98/Statistical-Learning---Final-Project))
+- A review on "unusual" clustering techniques ([here](https://github.com/abarbieri98/Statistical-Learning---Final-Project))
 - A Python implementation of the Okapi BM25 IR system ([here](https://github.com/abarbieri98/Information-Retrieval---Final-Project))
 - A C implementation of the k-D tree algorithm using a parallel approach ([here](https://github.com/abarbieri98/Parallel-kD-tree))
 
