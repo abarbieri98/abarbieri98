@@ -9,8 +9,9 @@
 ## What you can find here
 Projects that I've done in the past, like:
 - A review on "unusual" clustering techniques ([here](https://github.com/abarbieri98/Statistical-Learning---Final-Project))
-- A Python implementation of the Okapi BM25 IR system ([here](https://github.com/abarbieri98/Information-Retrieval---Final-Project))
 - A C implementation of the k-D tree algorithm using a parallel approach ([here](https://github.com/abarbieri98/Parallel-kD-tree))
+- A deep learning model for style transfer on images ([here](https://github.com/abarbieri98/DL_Final_Project))
+- A differential evolution solution for parameters optimization in a guitar setting ([here](https://github.com/abarbieri98/GMO_Final_Project))
 
 <!--
 **abarbieri98/abarbieri98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
