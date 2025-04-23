@@ -3,7 +3,7 @@
 ## About me
 
 - 📊 Bachelor Degree in Statistics for Economics and Business (Università di Padova).
-- 👨‍💻 Currently enrolled in the Master Degree in Data Science and Scientific Computing (Università di Trieste)
+- 👨‍💻 Master Degree in Data Science and Scientific Computing (Università di Trieste)
 - 🤖 AI and Data Science enthusiast
 
 ## What you can find here
